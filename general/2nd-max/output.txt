@@ -1,0 +1,7 @@
+6 4
+No 2nd max num
+1 0
+1 0
+No 2nd max num
+6 4
+7 6
