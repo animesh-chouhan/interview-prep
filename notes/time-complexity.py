@@ -1,4 +1,5 @@
 import time
+import timeit
 
 start = time.perf_counter()
 
